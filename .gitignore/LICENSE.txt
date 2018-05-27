@@ -1,0 +1,30 @@
++-----------------------------+
+| TRASH-MAILer 			      |
+| © 2017 Kevin Karhan         |
+| licensed under              |
+| CC-BY-NC-SA 4.0             |
++-----------------------------+
+
+LEGAL DISCLAIMER:
+THIS APPLICATION IS NEITHER AFFILIATED, SPONSORED OR ENDORSED BY Boat7.
+TRASH-MAIL AND BOAT7 ARE REGISTERED TRADEMARKS OF Boat7 Software UG (haftungsbeschränkt) & Co. KG, Malvenweg 864291 Darmstadt.
+
+License - English
+	TRASH-MAILer by Kevin Karhan is licensed under a Creative Commons Attribution - Non-Commercial - Share-Alike 4.0 International License.
+	To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc-sa/4.0/
+	
+	Permissions beyond the scope of this license may be available at http://tdnwjs.alternative.yt.
+
+Lizenz - Deutsch
+	tRASH-MAILer von Kevin Karhan ist lizenziert unter einer Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz.
+	Die Lizenz können sie unter folgendem Link einsehen: http://creativecommons.org/licenses/by-nc-sa/4.0/
+	
+	Über diese Lizenz hinausgehende Erlaubnisse können Sie unter http://tdnwjs.alternative.yt erhalten.
+
+
+Proudly made with Two lines of code and w/o Adobe Air!
+
+
+Version:	v0.1
+Based on:	nwjs Framework
+Tested on:	nwjs-nacl-v0.13.0-beta2-linux-x64
